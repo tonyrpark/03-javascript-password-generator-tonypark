@@ -12,6 +12,7 @@ Usage
 Introduction to Javascript. See the detailed instructions below.
 
 Image of the App
+![alt text](<a href="https://app.photobucket.com/u/tonyfcpremix/a/b662d505-24f6-4de2-832f-ab9d8e4ff264/p/f1e9a4f1-5b8a-41d8-9532-e1433481d193" target="_blank"><img src="https://hosting.photobucket.com/images/kk166/tonyfcpremix/screenshot.png" border="0" alt="screenshot"/></a>)
 
 Instructions
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. The user will be prompted to choose from the following password criteria:
